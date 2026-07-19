@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
-        state: "Game Still Under Dev.",     // this is what people actually see
+        name: "Fall Of The Dead Dev", // required by Discord API, not shown in the client
+        state: "Fall Of The Dead • In Development",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
